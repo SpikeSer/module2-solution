@@ -4,15 +4,17 @@
 
 h1 {
 	text-align: center;
+	font-size: 175%;
 }
 
 p {
 	background-color: #bfbfbf;
 	border: 2px solid black;
-	height: 150px;
+	height: 250px;
 	margin-right: 10px;
 	padding: 40px 10px 5px 10px;
 	overflow: hidden;
+	font-size: 125%;
 }
 
 #container {
@@ -32,7 +34,7 @@ p {
 	font-family: Arial, Helvetica, sans-serif;
 }
 #p2 {
-	background-color: #c14543;
+	background-color: #b13e3c;
 	color: white;
 	position: absolute;
 	top: 0;
